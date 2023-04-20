@@ -1,0 +1,15 @@
+{
+  "name": "electron-terminal",
+  "version": "1.0.0",
+  "description": "a electron application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "terminal"
+  ],
+  "author": "david collins",
+  "license": "MIT"
+}
